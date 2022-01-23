@@ -1,5 +1,5 @@
-body{
-    background-color: #F8F9FA !important;
+#top-navbar{
+    background-color: white !important;
 }
 
 .fa-arrow-alt-circle-right{
@@ -10,4 +10,12 @@ body{
 #album-section{
     margin-top: 100px !important;
     margin-bottom: 100px !important;
+}
+
+.fa-check-circle{
+    color: rgba(53, 53, 218, 0.932);
+}
+
+.highlight-card{
+    color: white;
 }
