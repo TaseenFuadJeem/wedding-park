@@ -9,7 +9,10 @@
 
 #album-section{
     margin-top: 100px !important;
-    margin-bottom: 100px !important;
+}
+
+#package-section{
+    margin-top: 150px !important;
 }
 
 .fa-check-circle{
@@ -18,4 +21,9 @@
 
 .highlight-card{
     color: white;
+}
+
+#faq-heading{
+    margin-top: 100px;
+    margin-bottom: 100px !important;
 }
