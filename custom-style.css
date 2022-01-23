@@ -12,7 +12,7 @@
 }
 
 #package-section{
-    margin-top: 150px !important;
+    margin-top: 150px;
 }
 
 .fa-check-circle{
@@ -25,5 +25,10 @@
 
 #faq-heading{
     margin-top: 100px;
-    margin-bottom: 100px !important;
+    margin-bottom: 100px;
+}
+
+footer{
+    height: 300px;
+    margin-top: 150px;
 }
