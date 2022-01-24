@@ -11,6 +11,12 @@
     margin-top: 100px !important;
 }
 
+#toast-button{
+    text-decoration: none;
+
+}
+
+
 #package-section{
     margin-top: 150px;
 }
